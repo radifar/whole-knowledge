@@ -1,0 +1,1 @@
+Just my brain dump of work related stuff. Organized with Obsidian, a Markdown-based note-taking app.
