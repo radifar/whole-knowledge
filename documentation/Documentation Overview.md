@@ -8,6 +8,11 @@ Interactive documentation is awesome.
 
 Separate data to [[YAML]], [[JSON]], or/and [[CSV]]
 
+## Why Documentation is important
+[[A Selfish Appeal for Documentation]]
+[[Documentation is JSON for the Brain]]
+
+
 ## About Me
 I enjoy good documentation and easily annoyed by dull documentation.
 
