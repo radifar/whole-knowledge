@@ -1,4 +1,4 @@
-## What to write
+# What to write
 Based on: [Writing Great Documentation Series](https://jacobian.org/series/great-documentation/)
 
 
@@ -16,7 +16,7 @@ The main goal for topical coverage should be **comprehensiveness**.
 Finally, you need complete reference for all the public APIs your project provides. These should be designed for those who already know _how_ to use some API, but need to look up the exact arguments some function takes, or how a particular setting influences behavior, etc.
 
 
-## Technical style
+# Technical style
 ### Learn to write
 Unfortunately, there aren’t any shortcuts here. The best way to learn how to write great documentation is to first _learn how to write_ (anything). There are some important differences between technical documentation and your average prose, but a solid foundation of good written communication skills is an irreplaceable prerequisite.
 
@@ -85,7 +85,7 @@ This means that good online documentation will feature a much heavier reliance o
   
   For the record, my written tics are an over-reliance on semicolons and em-dashes; this document contains far too many – of each.
 
-## You need an editor
+# You need an editor
 ### Self editing
 - Avoid editing and writing simultaneously. Nothing kills flow worse than continuously second-guessing yourself. So turn off spell-check, turn off grammar checks, and most importantly try to turn off the critical part of your mind until it’s time for editing.
    
