@@ -1,6 +1,8 @@
-From Handbook of Technical Writing 9th ed
+From *Handbook of Technical Writing 9th ed*
 
-Successful writing on the job is not the product of inspiration, nor is it merely the spoken word converted to print; it is the result of knowing how to structure information using both text and design to achieve an intended purpose for a clearly defined audience.
+[[Five Steps to Successful Writing - A Pre-writing Template]]
+
+Successful writing on the job is not the product of inspiration, nor is it merely the spoken word converted to print; it is the result of **knowing how to structure information** using both **text** and **design** to **achieve an intended purpose** for a **clearly defined audience**.
 
 ## 1. Preparation
    - Establish your primary purpose.

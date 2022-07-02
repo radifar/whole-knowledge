@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "documentation/Documentation Best Practices.md",
+            "file": "documentation/Five Steps to Successful Writing.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d788c3921aef132b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "documentation/Five Steps to Successful Writing - A Pre-writing Template.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentation/Documentation Best Practices.md",
+                "file": "documentation/Five Steps to Successful Writing - A Pre-writing Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "031897163db1b79e",
+  "active": "d788c3921aef132b",
   "lastOpenFiles": [
-    "documentation/Documentation Best Practices.md",
-    "documentation/Sphinx/Awesome Tools.md",
+    "documentation/Five Steps to Successful Writing - A Pre-writing Template.md",
     "documentation/Five Steps to Successful Writing.md",
     "documentation/Documentation Overview.md",
+    "documentation/Documentation Best Practices.md",
+    "documentation/Sphinx/Awesome Tools.md",
     "documentation/misc/A Selfish Appeal for Documentation.md",
     "documentation/misc/Documentation is JSON for the Brain.md",
     "documentation/Markup Language/Do not use Markdown for Documentation.md",
     "README.md",
-    "serialization-deserialization/language/YAML.md",
-    "serialization-deserialization/language/JSON.md"
+    "serialization-deserialization/language/YAML.md"
   ]
 }
