@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "031897163db1b79e",
+        "id": "003fa7cfa1cefec3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "documentation/Five Steps to Successful Writing.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "d788c3921aef132b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "documentation/Five Steps to Successful Writing - A Pre-writing Template.md",
+            "file": "documentation/Writing in English/Summary - Forming a Well Organized Writing Activities.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "df50d748cf82ed4e",
@@ -81,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentation/Five Steps to Successful Writing - A Pre-writing Template.md",
+                "file": "documentation/Writing in English/Summary - Forming a Well Organized Writing Activities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d788c3921aef132b",
+  "active": "003fa7cfa1cefec3",
   "lastOpenFiles": [
-    "documentation/Five Steps to Successful Writing - A Pre-writing Template.md",
+    "documentation/Writing in English/Summary - Forming a Well Organized Writing Activities.md",
+    "documentation/Writing in English/10.11114-jets.v6i6.3111.pdf",
     "documentation/Five Steps to Successful Writing.md",
+    "documentation/Five Steps to Successful Writing - A Pre-writing Template.md",
     "documentation/Documentation Overview.md",
     "documentation/Documentation Best Practices.md",
     "documentation/Sphinx/Awesome Tools.md",
     "documentation/misc/A Selfish Appeal for Documentation.md",
     "documentation/misc/Documentation is JSON for the Brain.md",
-    "documentation/Markup Language/Do not use Markdown for Documentation.md",
-    "README.md",
-    "serialization-deserialization/language/YAML.md"
+    "documentation/Markup Language/Do not use Markdown for Documentation.md"
   ]
 }
