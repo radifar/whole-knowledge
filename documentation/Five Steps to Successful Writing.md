@@ -76,6 +76,8 @@ To organize information effectively --> need to determine the best way to struct
 	3. Often you will need to combine methods of development.
 	   For example: A persuasive brochure for a charitable organization might combine a `specific-to-general method of development` with a `cause-and-effect method of development`. That is, you could begin with persuasive case histories of individual people in need and then move to general information about the positive effects of donations on recipients.
 
+![[text_structure.png]]
+
 **Outlining**
 --> breaks large or complex subjects into manageable parts.
 --> enables you to emphasize key points by placing them in the positions of greatest importance.
@@ -119,3 +121,8 @@ Trim extraneous information: Your writing should give readers exactly what they 
 - Read your draft several times, each time looking for and correcting a different set of problems or errors.
 - Concentrate first on larger issues, such as **unity** and **coherence**;
   save mechanical corrections, like **spelling** and **puctuation**, for later **proofreading**.
+
+
+### Other references
+
+https://saylordotorg.github.io/text_business-english-for-success/index.html

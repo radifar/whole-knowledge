@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "documentation/Writing in English/Summary - Forming a Well Organized Writing Activities.md",
+            "file": "documentation/Five Steps to Successful Writing.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "df50d748cf82ed4e",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentation/Writing in English/Summary - Forming a Well Organized Writing Activities.md",
+                "file": "documentation/Five Steps to Successful Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,9 +89,9 @@
   },
   "active": "003fa7cfa1cefec3",
   "lastOpenFiles": [
+    "documentation/Five Steps to Successful Writing.md",
     "documentation/Writing in English/Summary - Forming a Well Organized Writing Activities.md",
     "documentation/Writing in English/10.11114-jets.v6i6.3111.pdf",
-    "documentation/Five Steps to Successful Writing.md",
     "documentation/Five Steps to Successful Writing - A Pre-writing Template.md",
     "documentation/Documentation Overview.md",
     "documentation/Documentation Best Practices.md",
