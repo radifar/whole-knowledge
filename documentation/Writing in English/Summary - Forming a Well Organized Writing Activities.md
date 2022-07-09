@@ -10,7 +10,7 @@ In the process of:
 - Perceptive skills --> exposed to input by some sources of information such as teachers, TV, noticeboards, so on and so forth.
 - Productive skills --> students' lexicon (decoding) is activated during the production process of the activity.
 
-![[lexicon_means.png]]
+![](lexicon_means.png)
 
 #### Difficulty of Writing
 - Writing is a complex skill, and its development involves much more than the accurate use of grammar and a good range of vocabulary.
@@ -26,7 +26,7 @@ While analyzing students' written works we noticed that they could not organize 
    - Frank (1980) says, "constant use of an outline makes students aware of the need for their composition."
    - Good outline requires logical coordination, and grammatic parallelism.
    
-   ![[grammatical_parallelism.png]]
+![](grammatical_parallelism.png)
    
 2. **Coherence**
    - It can be basically described as logical and orderly arrangement of all the ideas.
@@ -37,7 +37,7 @@ While analyzing students' written works we noticed that they could not organize 
    - The right conective is very important to sentence meaning.
    - Variety in the usage of connectives leads to more effective expression, choosing the right conjunction is essential for conveying meaning accurately.
 
-![[connective_meaning.png]]
+![](connective_meaning.png)
 
 3. **Unity**
 - Oshima and Hogue (1981) indicate that, "when we talk about paragraph unity we mean that you should discuss only one main idea in each paragraph"
