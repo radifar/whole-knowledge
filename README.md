@@ -1,1 +1,1 @@
-Just my brain dump of work related stuff. Organized with Obsidian, a Markdown-based note-taking app.
+Just my brain dump of work related stuff. Organized with ~~Obsidian~~ Zettlr, a Markdown-based note-taking app.
