@@ -6,6 +6,7 @@ keywords:
   - project
   - zettelkasten
   - idea
+  - fleetnote
 author: Muhammad Radifar
 id: 20220710073812
 ---
