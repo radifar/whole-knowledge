@@ -41,10 +41,10 @@ Only when all the related work becomes part of an **overarching and interlocked 
 It is a great insight of David Allen's **Getting Work Done** (Allen, 2001).
 - GTD principle → collect everything that needs to be taken care of in one place and process it in a standardised way → forces us to make clear choices and regularly check if our tasks still fit into the bigger picture.
 - Only if we know that everything is taken care of, from the important to the trivial, can we let go and focus on what is right in front of us.
-- Only if nothing else is lingering in our working memory and taking up valuable mental resources can we experience what Allen calls a _mind like water_ – the state where we can focus on the work right in front of us without getting distracted by competing thougths.
+- Only if nothing else is lingering in our working memory and taking up valuable mental resources can we experience what Allen calls a _mind like water_ – the state where we can focus on the work right in front of us without getting distracted by competing thoughts.
 - It provide structure for our everyday work that deals with the fact that most distractions do not come so much from our environment, but our own minds.
 
-Unfortunately, David Allen's technique cannot simply be transfered to the task of insightful writing, because:
+Unfortunately, David Allen's technique cannot simply be transferred to the task of insightful writing, because:
 1. GTD relies on clearly defined objectives, whereas insight cannot be predetermined by definition. We usually start with rather vague ideas that are bound to change until they become clearer in the course of our research.
 2. GTD requires projects to be broken down into smaller, concrete _next steps_. Insightful writing or academic work is also done one step at a time, but these are most often too small to be worth writing down (looking up footnote, rereading a chapter, writing a paragraph) or too grand to be finished in one go.
 3. It is also difficult to anticipate which step has to be taken after the next one. You might notice a footnote, which you check quickly on. You try to understand a paragraph and need to look up something for clarification. You make a note, go back to reading and then jump up to write down a sentence that formed itself in your mind.
@@ -83,12 +83,12 @@ Hard work can be fun as long as it is aligned with our intrinsic goals and we fe
 
 The best way to maintain the feeling of being in control is to stay in control. And to stay in control, it's **better to keep your options open** during the writing process rather than limit yourself to your first idea.
 
-It is in the nature of writing, especially insight-oriented writing, that questions chage, the material we work with turns out to be very different from the one imagined or that new ideas emerge, which might change our whole perspective on what we do.
-→ Only if the work is set up in a way that is flexible enough to allow these small and constant adjusments can we keep our interest, motivation, and work aligned – which is the precondition to effortless or almost effortless work [^2].
+It is in the nature of writing, especially insight-oriented writing, that questions change, the material we work with turns out to be very different from the one imagined or that new ideas emerge, which might change our whole perspective on what we do.
+→ Only if the work is set up in a way that is flexible enough to allow these small and constant adjustments can we keep our interest, motivation, and work aligned – which is the precondition to effortless or almost effortless work [^2].
 
 ## Smart working environment – Overarching workflow
 
-Luhmann was able to focus on the important things right in front of hime, pick up quickly where he left off and stay in control of the process because the **structure of his work allowed him to do this**.
+Luhmann was able to focus on the important things right in front of him, pick up quickly where he left off and stay in control of the process because the **structure of his work allowed him to do this**.
 
 Success is the result of smart working environments that avoid resistance in the first place. Instead of struggling with adverse dynamics, highly productive people deflect resistance.
 
@@ -105,7 +105,7 @@ Two slip-boxes:
 The notes were written on index cards and stored in wooden boxes.
 
 Workflow:
-1. Whenever he read something, he would write the bibliographi information on one side of a card and make brief notes about the content on the other side. These notes would end up in the bibliographical slip-box.
+1. Whenever he read something, he would write the bibliographical information on one side of a card and make brief notes about the content on the other side. These notes would end up in the bibliographical slip-box.
 2. Shortly after, he would look at his brief notes and think about their relevance for his own thinking and writing.
 3. He then would turn to the main slip-box and write his ideas, comments and thoughts on new pieces of paper, using only one for each idea and restricting himself to one side of the paper, to make it easier to read them later without having to take them out of the box.
 4. He usually wrote his notes with an eye towards already existing notes in the slip-box (see if there is a connection?).
@@ -115,7 +115,7 @@ Workflow:
 8. The trick is that he did not organise his notes by topic, but in the rather abstract way of giving them fixed numbers. The numbers bore no meaning and were only there to **identify** each note **permanently**.
 9. Whenever he added a note, he **checked his slip-box for other relevant notes to make possible connections between them**. Adding a note directly behind another note is only one way of doing this. Another way is by **adding a link** on this and/or the other note, which could be anywhere in the system.
 10. By adding links between notes → able to add the same note to different contexts.
-11. The last element --> index, from which he would refer to one or two notes that would serve as a kind of entry point into a line of thought or topic. Notes with a sorted collection of links are, of course, good entry points.
+11. The last element → index, from which he would refer to one or two notes that would serve as a kind of entry point into a line of thought or topic. Notes with a sorted collection of links are, of course, good entry points.
 
 
 
